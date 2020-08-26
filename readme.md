@@ -1,1 +1,1 @@
-<h1>Repositório para desafios - GoStack :rocket</h1>
+<h1>Repositório para desafio 2 - GoStack 2020</h1>
